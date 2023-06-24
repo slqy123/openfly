@@ -15,19 +15,17 @@ sort: by_weight
 use_preset_vocabulary: false
 ...
 ：	;
-；	;
+；	;;
 ！	;a
 》	;b
 ”	;c
-、	;d
+、	;h
+，	;d
 （	;e
 《	;g
-《》	;h
 〈	;i
-“”	;j
-（）	;k
+。	;j
 —	;l
-〔〕	;m
 〉	;o
 ～	;p
 ：“	;q

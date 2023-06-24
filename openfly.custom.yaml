@@ -1,1 +1,6 @@
 # encoding: utf-8
+patch:
+  translator/enable_sentence: false
+  key_binder/bindings:
+    - {when: has_menu, accept: Escape, send: 2}
+    - {when: always, accept: Escape, toggle: ascii_mode}

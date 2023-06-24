@@ -8,7 +8,8 @@ version: "v9.9m"
 
 import_tables:
   - 'openfly.user.top'
-  - 'openfly.fast.symbols'
+  # - 'openfly.fast.symbols'
+  - 'openfly.fasto.symbols'
   - 'openfly.primary'
   - 'openfly.secondary.short.code'
   - 'openfly.secondary'

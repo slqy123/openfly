@@ -1,0 +1,34 @@
+
+# Rime dictionary
+# encoding: utf-8
+#
+# Credit: 何海峰 <flypy@qq.com>
+# 快符号
+# 缺失：
+# of 重复上屏，在 schema 里使用 history_translator 设置
+# on End 键
+# ou 撤销
+
+---
+name: openfly.fast.symbols
+version: "v9.9m"
+sort: by_weight
+use_preset_vocabulary: false
+...
+：	om
+；	of
+！	oa
+《》	ob
+“”	oy
+、	oh
+，	od
+（）	ok
+。	oj
+～	oi
+：“	oq
+……	os
+——	op
+？	ow
+→	ox
+·	oz
+
